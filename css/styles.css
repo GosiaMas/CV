@@ -1,0 +1,18 @@
+body {
+  background-color: #e4f9f5;
+}
+h1{
+  color: #30e3ca;
+  font-family: georgia, serif;
+  font-size: 35px;
+  color: #11999e;
+}
+h3{
+  color: #40514e
+}
+hr {
+  border-style: dotted none none none;
+  border-width: 3px;
+  border-color: silver;
+  width: 3%;
+}
